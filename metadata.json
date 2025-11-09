@@ -1,0 +1,5 @@
+{
+  "name": "Analogue Time Trainer",
+  "description": "An adult-focused app for learning analog time. Features six progressive difficulty levels and three game modes: reading the clock, matching, and setting the time.",
+  "requestFramePermissions": []
+}
