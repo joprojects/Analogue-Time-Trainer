@@ -29,9 +29,9 @@ You can access the live version of this application hosted on GitHub Pages:
 To run this application on your local machine for testing or development, you need to serve the files from a local web server. This is necessary due to browser security policies (CORS) that prevent modern JavaScript modules from running directly from the local file system (`file://`).
 
 1.  **Clone or download this repository.** 
-2.  **Navigate to the `build` directory** in your terminal:
+2.  **Navigate to the `docs` directory** in your terminal:
     ```bash
-    cd path/to/your/project/build
+    cd path/to/your/project/docs
     ```
 3.  **Start a simple web server.** Here are a few common options:
     *   **Using Python 3 (Recommended):**
@@ -47,4 +47,4 @@ To run this application on your local machine for testing or development, you ne
 ## Project Structure
 
 *   **Source Files (`.tsx`):** The development source code is written in React with JSX and can be found in the root and `/components` directories.
-*   **Distribution Files (`/build`):** The `/build` folder contains the compiled, browser-ready JavaScript, HTML, and other assets. **This is the folder that should be deployed.**
+*   **Distribution Files (`/docs`):** The `/docs` folder contains the compiled, browser-ready JavaScript, HTML, and other assets. **This is the folder that should be deployed.**
