@@ -22,7 +22,7 @@ An elegant, modern web application designed to help adults learn and practice re
 
 You can access the live version of this application hosted on GitHub Pages:
 
-**[https://joprojects.github.io/time-teller-tutor/](https://joprojects.github.io/time-teller-tutor/)**
+**[https://joprojects.github.io/Analogue-Time-Trainer/](https://joprojects.github.io/Analogue-Time-Trainer/)**
 
 ### Running Locally
 
